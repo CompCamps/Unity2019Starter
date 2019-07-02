@@ -119,7 +119,7 @@ NavMeshSettings:
     accuratePlacement: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: c581423c1e3c03a41ad8a7ed33c8f85a, type: 2}
 --- !u!4 &17916629 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -199,6 +199,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &69237217
@@ -211,6 +227,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -329,6 +353,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!4 &129145473 stripped
@@ -365,6 +405,14 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 440fd4d05748cce479a6e54a1a265e4e, type: 3}
       propertyPath: m_Name
       value: Tree Blue 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 440fd4d05748cce479a6e54a1a265e4e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 440fd4d05748cce479a6e54a1a265e4e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 440fd4d05748cce479a6e54a1a265e4e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -422,6 +470,14 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c2f279ec51055754e8121a43e6f58c49, type: 3}
       propertyPath: m_Name
       value: Tree Blue 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c2f279ec51055754e8121a43e6f58c49, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c2f279ec51055754e8121a43e6f58c49, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c2f279ec51055754e8121a43e6f58c49, type: 3}
       propertyPath: m_LocalPosition.x
@@ -542,6 +598,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &237906354 stripped
@@ -623,6 +695,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!1001 &291050806
@@ -635,6 +715,14 @@ PrefabInstance:
     - target: {fileID: 1409515849745248, guid: cb7e68188a3c74235816fb9bf64e04a1, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_stump_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1409515849745248, guid: cb7e68188a3c74235816fb9bf64e04a1, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1409515849745248, guid: cb7e68188a3c74235816fb9bf64e04a1, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4836733127638446, guid: cb7e68188a3c74235816fb9bf64e04a1, type: 3}
       propertyPath: m_LocalPosition.x
@@ -698,6 +786,14 @@ PrefabInstance:
     - target: {fileID: 1600965953560882, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
       propertyPath: m_Name
       value: enchantedforest_flower_5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600965953560882, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600965953560882, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4797517452491560, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
       propertyPath: m_LocalPosition.x
@@ -800,6 +896,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &319778899
@@ -894,10 +1006,30 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
+        type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5177800830499853852, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
         type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177800830499853852, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 5177800830499853852, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
+        type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 447fba5caab5adb4a9410b8e88fb3f1b, type: 3}
@@ -956,6 +1088,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &325210140 stripped
@@ -986,6 +1134,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 738046c31b319444bbf194bbd23fbdb5, type: 3}
       propertyPath: m_Name
       value: island_crate
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 738046c31b319444bbf194bbd23fbdb5, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 738046c31b319444bbf194bbd23fbdb5, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1097,6 +1249,22 @@ PrefabInstance:
     - target: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
@@ -1218,6 +1386,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!1001 &421319217
@@ -1274,6 +1450,22 @@ PrefabInstance:
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
@@ -1389,6 +1581,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!4 &469400794 stripped
@@ -1452,6 +1660,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &480714659
@@ -1508,6 +1732,22 @@ PrefabInstance:
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
@@ -1590,6 +1830,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &563268596 stripped
@@ -1608,6 +1864,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1731,6 +1995,22 @@ PrefabInstance:
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
@@ -1890,6 +2170,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!1001 &675353348
@@ -1902,6 +2190,14 @@ PrefabInstance:
     - target: {fileID: 1862277235618918, guid: 391594ea7121a4d588b21bd5b47229a4, type: 3}
       propertyPath: m_Name
       value: enchantedforest_stone_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1862277235618918, guid: 391594ea7121a4d588b21bd5b47229a4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1862277235618918, guid: 391594ea7121a4d588b21bd5b47229a4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4661484377465094, guid: 391594ea7121a4d588b21bd5b47229a4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2010,6 +2306,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_fallen_small
       objectReference: {fileID: 0}
+    - target: {fileID: 1301704514817616, guid: ee82e0cdb1a4545f191db93ad009f94b, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1301704514817616, guid: ee82e0cdb1a4545f191db93ad009f94b, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee82e0cdb1a4545f191db93ad009f94b, type: 3}
 --- !u!1001 &701473481
@@ -2066,6 +2370,22 @@ PrefabInstance:
     - target: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
@@ -2215,6 +2535,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &750126527
@@ -2227,6 +2563,14 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c191680166b7610448a52f10792e7dde, type: 3}
       propertyPath: m_Name
       value: Tree Orange 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c191680166b7610448a52f10792e7dde, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c191680166b7610448a52f10792e7dde, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c191680166b7610448a52f10792e7dde, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2348,6 +2692,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Blue 6
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97eb1557fdd262e47a88469edc1466da, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97eb1557fdd262e47a88469edc1466da, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 97eb1557fdd262e47a88469edc1466da, type: 3}
       propertyPath: m_LocalPosition.x
       value: 82.4912
@@ -2455,6 +2807,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_flower_3 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
 --- !u!1001 &830397049
@@ -2467,6 +2827,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2591,6 +2959,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!1001 &872751560
@@ -2705,6 +3089,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!4 &886058446 stripped
@@ -2724,13 +3124,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_rock_2
       objectReference: {fileID: 0}
+    - target: {fileID: 1699568350153644, guid: 6da02d34fe25044bb93d5c92331942e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1699568350153644, guid: 6da02d34fe25044bb93d5c92331942e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4582363405951748, guid: 6da02d34fe25044bb93d5c92331942e4, type: 3}
       propertyPath: m_LocalPosition.x
       value: 115.069435
       objectReference: {fileID: 0}
     - target: {fileID: 4582363405951748, guid: 6da02d34fe25044bb93d5c92331942e4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.0244639
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4582363405951748, guid: 6da02d34fe25044bb93d5c92331942e4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2932,6 +3340,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_flower_3 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
 --- !u!1001 &990328585
@@ -2988,6 +3404,606 @@ PrefabInstance:
     - target: {fileID: 1976313708835498, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
       propertyPath: m_Name
       value: House
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661742167876414, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661742167876414, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1454837605108812, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1454837605108812, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635492510250058, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1635492510250058, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1831570079567252, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1831570079567252, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1466175993647656, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1466175993647656, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263854965198614, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1263854965198614, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1198943060057298, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1198943060057298, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806895485581060, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1806895485581060, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1383076870367006, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1383076870367006, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1157195055781018, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1157195055781018, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473077331467932, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473077331467932, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1207288199645950, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1207288199645950, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1995957311912368, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1995957311912368, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973717876423516, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1973717876423516, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1701100124076622, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1701100124076622, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1072890387394376, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1072890387394376, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1558605607576872, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1558605607576872, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1249404043407688, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1249404043407688, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1443867932891396, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1443867932891396, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796819845405254, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1796819845405254, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1169764629730004, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1169764629730004, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1655398274513270, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1655398274513270, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499125413889918, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1499125413889918, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1247850016921310, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1247850016921310, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1222958365009558, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1222958365009558, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1165957766566984, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1165957766566984, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1803021890996266, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1803021890996266, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1232865023223396, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1232865023223396, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1559718586318996, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1559718586318996, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1249657569122050, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1249657569122050, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358190285117974, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1358190285117974, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388572093675748, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1388572093675748, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1337075960188252, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1337075960188252, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150113563565874, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150113563565874, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032096662574652, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1032096662574652, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402166399764464, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1402166399764464, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1716886979843258, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1716886979843258, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1378857818262706, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1378857818262706, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880009467390494, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1880009467390494, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356208974919126, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356208974919126, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576304366769652, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1576304366769652, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915962114454492, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1915962114454492, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1683360549660094, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1683360549660094, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126031825097174, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1126031825097174, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1214253568455060, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1214253568455060, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1048716217009124, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1048716217009124, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1824497491259518, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1824497491259518, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1792285871798894, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1792285871798894, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1056630271359386, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1056630271359386, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1353845401789304, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1353845401789304, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1998328193810196, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1998328193810196, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278965848959288, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1278965848959288, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1155202434163778, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1155202434163778, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1822554085433560, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1822554085433560, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600410537081674, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600410537081674, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1199357435415596, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1199357435415596, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1890826203946382, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1890826203946382, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1200793053738568, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1200793053738568, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1194048470192504, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1194048470192504, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944019587394374, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1944019587394374, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538236405479210, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538236405479210, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571565363385742, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1571565363385742, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365113892082418, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1365113892082418, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216543728706872, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1216543728706872, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109460969180840, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1109460969180840, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150292552123692, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1150292552123692, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1471639894124150, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1471639894124150, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1593805449766704, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1593805449766704, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1462281058303306, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1462281058303306, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1413781350764952, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1413781350764952, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650953793821504, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1650953793821504, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1549082195987682, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1549082195987682, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1575200083975004, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1575200083975004, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723904586215162, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1723904586215162, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111099295419276, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1111099295419276, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
@@ -3070,6 +4086,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &1058891810 stripped
@@ -3139,6 +4171,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &1102188512 stripped
@@ -3157,6 +4205,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3338,6 +4394,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &1151250503
@@ -3394,6 +4466,22 @@ PrefabInstance:
     - target: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
@@ -3460,6 +4548,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_bridge_stone
       objectReference: {fileID: 0}
+    - target: {fileID: 1409411201565446, guid: 1b6f3d5a3b076480e92b2da6db7e17de, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1409411201565446, guid: 1b6f3d5a3b076480e92b2da6db7e17de, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1b6f3d5a3b076480e92b2da6db7e17de, type: 3}
 --- !u!1001 &1160084288
@@ -3517,6 +4613,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &1195047329 stripped
@@ -3542,13 +4654,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_rock_3
       objectReference: {fileID: 0}
+    - target: {fileID: 1815203512773962, guid: c9aa4a3148596484c8c90684cad71854, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1815203512773962, guid: c9aa4a3148596484c8c90684cad71854, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4468419111988058, guid: c9aa4a3148596484c8c90684cad71854, type: 3}
       propertyPath: m_LocalPosition.x
       value: 138.79659
       objectReference: {fileID: 0}
     - target: {fileID: 4468419111988058, guid: c9aa4a3148596484c8c90684cad71854, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.0612777
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 4468419111988058, guid: c9aa4a3148596484c8c90684cad71854, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3649,6 +4769,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!1001 &1297737020
@@ -3706,6 +4842,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!1001 &1308375711
@@ -3718,6 +4870,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3830,6 +4990,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!1001 &1359509501
@@ -3887,6 +5063,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &1367748176
@@ -3943,6 +5135,22 @@ PrefabInstance:
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
@@ -4058,6 +5266,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!1001 &1412193114
@@ -4070,6 +5294,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4127,6 +5359,108 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7561da044a00645e39d086b91c138738, type: 3}
+--- !u!1 &1422216564 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6535662101754133153, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+    type: 3}
+  m_PrefabInstance: {fileID: 6535662100491859925}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &1422216573
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1422216564}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 0.5
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!4 &1426178066 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -4187,6 +5521,14 @@ PrefabInstance:
     - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
       propertyPath: m_Name
       value: enchantedforest_flower_3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
@@ -4366,6 +5708,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_mushroom_3
       objectReference: {fileID: 0}
+    - target: {fileID: 1641779497121960, guid: 5d2ad20f5bc084a35964ec39701284d3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1641779497121960, guid: 5d2ad20f5bc084a35964ec39701284d3, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d2ad20f5bc084a35964ec39701284d3, type: 3}
 --- !u!1001 &1514637741
@@ -4422,6 +5772,22 @@ PrefabInstance:
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
@@ -4480,6 +5846,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!1001 &1532821271
@@ -4536,6 +5910,22 @@ PrefabInstance:
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
@@ -4683,6 +6073,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4856,6 +6254,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!4 &1655376587 stripped
@@ -4880,6 +6286,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4992,6 +6406,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!4 &1708443921 stripped
@@ -5055,6 +6477,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &1713535053
@@ -5112,6 +6550,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tree Orange 5 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
 --- !u!1001 &1717031979
@@ -5168,6 +6614,14 @@ PrefabInstance:
     - target: {fileID: 1041680708357480, guid: c108272a27501428cb268a4bd9bee877, type: 3}
       propertyPath: m_Name
       value: enchantedforest_log
+      objectReference: {fileID: 0}
+    - target: {fileID: 1041680708357480, guid: c108272a27501428cb268a4bd9bee877, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1041680708357480, guid: c108272a27501428cb268a4bd9bee877, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c108272a27501428cb268a4bd9bee877, type: 3}
@@ -5295,6 +6749,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_flower_3
       objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1980341666605430, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 16114d2c1fdc8451e844a8024a4130bf, type: 3}
 --- !u!4 &1788663245 stripped
@@ -5319,6 +6781,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5404,6 +6874,14 @@ PrefabInstance:
     - target: {fileID: 1600965953560882, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
       propertyPath: m_Name
       value: enchantedforest_flower_5 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600965953560882, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1600965953560882, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4797517452491560, guid: 298fe74f912a441c0af92f7f537bc109, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5506,6 +6984,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &1922362768
@@ -5576,6 +7070,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_1 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
       value: 125.9
@@ -5642,6 +7144,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5760,6 +7270,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &1997853597
@@ -5817,6 +7343,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
 --- !u!1001 &2010714379
@@ -5829,6 +7371,14 @@ PrefabInstance:
     - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1706610291850926, guid: 7561da044a00645e39d086b91c138738, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5941,6 +7491,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!4 &2054217834 stripped
@@ -6004,6 +7570,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &2086520704
@@ -6060,6 +7642,22 @@ PrefabInstance:
     - target: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
@@ -6136,6 +7734,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
 --- !u!1001 &2117682334
@@ -6192,6 +7806,22 @@ PrefabInstance:
     - target: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
@@ -6302,6 +7932,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3496182017651024725}
+  - component: {fileID: 457817416424067370}
+  - component: {fileID: 457817416424067371}
   m_Layer: 0
   m_Name: One_Handed_Weapon_L
   m_TagString: Untagged
@@ -6309,6 +7941,32 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!136 &457817416424067370
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 457817416424067369}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 0
+  m_Radius: 0.35
+  m_Height: 0.38
+  m_Direction: 1
+  m_Center: {x: -0.02, y: 0.27, z: 0.81}
+--- !u!114 &457817416424067371
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 457817416424067369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b7c6e86397b57429e1d962fcf5eddd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &464784260437316923
 Transform:
   m_ObjectHideFlags: 0
@@ -7097,7 +8755,7 @@ GameObject:
   - component: {fileID: 6088536648205638073}
   m_Layer: 0
   m_Name: One-handed Sword
-  m_TagString: Untagged
+  m_TagString: PlayerWeapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7386,7 +9044,7 @@ SkinnedMeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4343698960286941357}
-  m_Enabled: 0
+  m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -7453,7 +9111,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6990989048268043991}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 90.55, y: 1.1, z: -35.2}
+  m_LocalPosition: {x: 90.55, y: 0.431, z: -35.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 963194228}
@@ -7559,6 +9217,105 @@ Transform:
   m_Father: {fileID: 982215352198498990}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6535662100491859925
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535662101754133153, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_Name
+      value: EnemyRobot
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 88.36531
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -27.174162
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.12595621
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9920358
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 14.472001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133154, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133164, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: health
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133164, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: maxHealth
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535662101754133164, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: blip
+      value: 
+      objectReference: {fileID: 8300000, guid: eaa44c867957ed247adae7613319b640, type: 3}
+    - target: {fileID: 7756367389334261516, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_Shadows.m_Type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395657849410621488, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_Mass
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395657849410621488, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7,
+        type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7a5b9f126b324a54a91b3b3b1ae9eae7, type: 3}
 --- !u!4 &6561062846627165887
 Transform:
   m_ObjectHideFlags: 0
@@ -7686,6 +9443,7 @@ GameObject:
   - component: {fileID: 6990989048268043992}
   - component: {fileID: 6990989048268043993}
   - component: {fileID: 6990989048268043997}
+  - component: {fileID: 6990989048268043994}
   m_Layer: 0
   m_Name: boy
   m_TagString: Player
@@ -7725,6 +9483,22 @@ CharacterController:
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 1.08, z: 0}
+--- !u!54 &6990989048268043994
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990989048268043991}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!114 &6990989048268043995
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7847,7 +9621,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a89bc0f14e580174d9e24cd1dc3f00e4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  oneHandedWeapon: {fileID: 4343698960286941357}
 --- !u!1 &7023330104810315925
 GameObject:
   m_ObjectHideFlags: 0

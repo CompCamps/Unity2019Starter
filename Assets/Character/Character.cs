@@ -53,7 +53,7 @@ public class Character : MonoBehaviour
     {
         float value = ctx.ReadValue<float>();
         moveSpeed = value;
-        anim.speed = value * speed;
+        anim.speed = System.Math.Abs(value) * speed;
         anim.SetBool("is_walking", true);
     }
 
