@@ -9,6 +9,7 @@ public class Character : MonoBehaviour
     float rotation = 0;
     float gravity = 0.6f;
     float vertical = 0f;
+    bool jumped = false;
 
     private float moveSpeed = 0;
     Vector3 moveVec = Vector3.zero;
@@ -80,6 +81,7 @@ public class Character : MonoBehaviour
         {
             anim.Play("jump");
             vertical = 6f;
+            jumped = true;
         }
     }
 
@@ -114,7 +116,10 @@ public class Character : MonoBehaviour
         else if (isFalling() && !anim.GetBool("is_falling"))
         {
             anim.SetBool("is_falling", true);
-            anim.Play("fall");
+            if (!jumped)
+            {
+               anim.Play("fall");
+            }
         }
 
         if (vertical > 0)
