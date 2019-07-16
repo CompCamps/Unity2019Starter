@@ -73,6 +73,17 @@ public class InputMaster : IInputActionCollection
                     ""processors"": """",
                     ""interactions"": ""Press"",
                     ""bindings"": []
+                },
+                {
+                    ""name"": ""Attack"",
+                    ""id"": ""73f5b431-3b2d-47ed-b29d-8c0b371d2c45"",
+                    ""expectedControlLayout"": """",
+                    ""continuous"": false,
+                    ""passThrough"": false,
+                    ""initialStateCheck"": false,
+                    ""processors"": """",
+                    ""interactions"": ""Press"",
+                    ""bindings"": []
                 }
             ],
             ""bindings"": [
@@ -267,6 +278,18 @@ public class InputMaster : IInputActionCollection
                     ""isComposite"": false,
                     ""isPartOfComposite"": false,
                     ""modifiers"": """"
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ba05ae7e-f65b-42e9-86f4-fa02ce8ce01b"",
+                    ""path"": ""<Keyboard>/e"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Attack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false,
+                    ""modifiers"": """"
                 }
             ]
         }
@@ -280,6 +303,7 @@ public class InputMaster : IInputActionCollection
         m_Player_Camera = m_Player.GetAction("Camera");
         m_Player_Sprinting = m_Player.GetAction("Sprinting");
         m_Player_Jump = m_Player.GetAction("Jump");
+        m_Player_Attack = m_Player.GetAction("Attack");
     }
 
     ~InputMaster()
@@ -337,6 +361,7 @@ public class InputMaster : IInputActionCollection
     private InputAction m_Player_Camera;
     private InputAction m_Player_Sprinting;
     private InputAction m_Player_Jump;
+    private InputAction m_Player_Attack;
     public struct PlayerActions
     {
         private InputMaster m_Wrapper;
@@ -346,6 +371,7 @@ public class InputMaster : IInputActionCollection
         public InputAction @Camera { get { return m_Wrapper.m_Player_Camera; } }
         public InputAction @Sprinting { get { return m_Wrapper.m_Player_Sprinting; } }
         public InputAction @Jump { get { return m_Wrapper.m_Player_Jump; } }
+        public InputAction @Attack { get { return m_Wrapper.m_Player_Attack; } }
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -371,6 +397,9 @@ public class InputMaster : IInputActionCollection
                 Jump.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnJump;
                 Jump.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnJump;
                 Jump.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnJump;
+                Attack.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnAttack;
+                Attack.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnAttack;
+                Attack.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnAttack;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
@@ -390,6 +419,9 @@ public class InputMaster : IInputActionCollection
                 Jump.started += instance.OnJump;
                 Jump.performed += instance.OnJump;
                 Jump.canceled += instance.OnJump;
+                Attack.started += instance.OnAttack;
+                Attack.performed += instance.OnAttack;
+                Attack.canceled += instance.OnAttack;
             }
         }
     }
@@ -407,5 +439,6 @@ public class InputMaster : IInputActionCollection
         void OnCamera(InputAction.CallbackContext context);
         void OnSprinting(InputAction.CallbackContext context);
         void OnJump(InputAction.CallbackContext context);
+        void OnAttack(InputAction.CallbackContext context);
     }
 }

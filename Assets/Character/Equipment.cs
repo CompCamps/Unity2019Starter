@@ -30,6 +30,7 @@ public class Equipment : MonoBehaviour
         anim = GetComponent<Animator>();
 
         inputs.Player.Equip.performed += Equip;
+        inputs.Player.Attack.performed += Attack;
     }
 
     private void Equip(InputAction.CallbackContext obj)
@@ -41,6 +42,14 @@ public class Equipment : MonoBehaviour
         else
         {
             equiped = 0;
+        }
+    }
+
+    private void Attack(InputAction.CallbackContext ctx)
+    {
+        if (equiped != 0)
+        {
+            anim.SetTrigger("attack");
         }
     }
 

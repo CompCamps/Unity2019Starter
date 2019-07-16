@@ -59,6 +59,17 @@
                     "processors": "",
                     "interactions": "Press",
                     "bindings": []
+                },
+                {
+                    "name": "Attack",
+                    "id": "73f5b431-3b2d-47ed-b29d-8c0b371d2c45",
+                    "expectedControlLayout": "",
+                    "continuous": false,
+                    "passThrough": false,
+                    "initialStateCheck": false,
+                    "processors": "",
+                    "interactions": "Press",
+                    "bindings": []
                 }
             ],
             "bindings": [
@@ -250,6 +261,18 @@
                     "processors": "",
                     "groups": "",
                     "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false,
+                    "modifiers": ""
+                },
+                {
+                    "name": "",
+                    "id": "ba05ae7e-f65b-42e9-86f4-fa02ce8ce01b",
+                    "path": "<Keyboard>/e",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false,
                     "modifiers": ""
