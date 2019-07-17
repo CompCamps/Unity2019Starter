@@ -76,7 +76,7 @@ public class InputMaster : IInputActionCollection
                 },
                 {
                     ""name"": ""Attack"",
-                    ""id"": ""1a4a2ac8-6c4b-4357-b0a9-6185c5a1a2c6"",
+                    ""id"": ""73f5b431-3b2d-47ed-b29d-8c0b371d2c45"",
                     ""expectedControlLayout"": """",
                     ""continuous"": false,
                     ""passThrough"": false,

@@ -120,6 +120,22 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: c581423c1e3c03a41ad8a7ed33c8f85a, type: 2}
+--- !u!1 &7053430
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1526266692}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2087099827}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &17916629 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -138,6 +154,22 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1532821271}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &42846863
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1699963319}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 142285441}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &58253017 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -151,10 +183,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (19)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 161.31505
@@ -198,6 +226,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (19)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -375,30 +407,135 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+--- !u!1 &77077073
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1134283385}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 886058446}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &106109676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1380749933}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1380749934}
+  m_Layer: 0
+  m_Name: Tree Green 8 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &115592529
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1492037932}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 656047320}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &129145473 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4688802541759318, guid: 5d2ad20f5bc084a35964ec39701284d3,
     type: 3}
   m_PrefabInstance: {fileID: 1508865558}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &142285441 stripped
+--- !u!1 &133136151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 393797431}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2126722271}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &142285441
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 1699963319}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 42846863}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1699963320}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &146727290 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a,
     type: 3}
   m_PrefabInstance: {fileID: 2086520704}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &154315553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 442762495}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 442762496}
+  m_Layer: 0
+  m_Name: Tree Blue 6 (1) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &155819871 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738,
     type: 3}
   m_PrefabInstance: {fileID: 1933140664}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &155989005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 662944565}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 514655028}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &157206130
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -464,6 +601,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 440fd4d05748cce479a6e54a1a265e4e, type: 3}
+--- !u!4 &157206131
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 157206130}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 885083859}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1584380284}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 76
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &160194589
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 480163419}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1477994114}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &164426865
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -529,6 +697,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2f279ec51055754e8121a43e6f58c49, type: 3}
+--- !u!4 &164426866
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 164426865}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1338106058}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 237906354}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 72
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &201185251 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a,
@@ -554,10 +737,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 74.4
@@ -606,6 +785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -624,18 +807,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
---- !u!4 &237906354 stripped
+--- !u!4 &237906354
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: c2f279ec51055754e8121a43e6f58c49,
     type: 3}
   m_PrefabInstance: {fileID: 164426865}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 448733218}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 164426866}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &262926550 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4053664342447664, guid: cb81c6274498c428fbac535c1c5de3e4,
     type: 3}
   m_PrefabInstance: {fileID: 990328585}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &268999151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 872751560}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 583184102}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &273035546 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738,
@@ -655,10 +863,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (7)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 151.54323
@@ -708,6 +912,10 @@ PrefabInstance:
       value: Tree Orange 5 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -717,6 +925,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &282482985
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 282482984}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 539689989}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 817681476}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 21
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &284412657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 442762495}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1822868159}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &291050806
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -782,12 +1021,44 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb7e68188a3c74235816fb9bf64e04a1, type: 3}
+--- !u!1 &291238762
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1713535053}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1713535054}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (5) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &291345120 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a,
     type: 3}
   m_PrefabInstance: {fileID: 1408680121}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &307682448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 750126527}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 750126528}
+  m_Layer: 0
+  m_Name: Tree Orange 2 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &313712400
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -860,10 +1131,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (14)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 147.8809
@@ -907,6 +1174,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (14)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -1022,16 +1293,6 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
-    - target: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
-        type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5177800830499853852, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
         type: 3}
       propertyPath: m_Layer
@@ -1047,6 +1308,16 @@ PrefabInstance:
       propertyPath: m_NavMeshLayer
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
+        type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 447fba5caab5adb4a9410b8e88fb3f1b, type: 3}
 --- !u!1001 &320299156
@@ -1056,10 +1327,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (13)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 115.96765
@@ -1108,6 +1375,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (13)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -1132,12 +1403,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 76734751}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &330456086 stripped
+--- !u!4 &330456086
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: ad10271f14be1ff4283770e0c12fb2bb,
     type: 3}
   m_PrefabInstance: {fileID: 1732220103}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 459728024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1732220104}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &348731634 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -1345,6 +1625,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c9a225eb4d0443248abe0521dce4d41c, type: 3}
+--- !u!4 &386328757
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 386328756}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 567029988}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 631617748}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 78
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &392176479 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738,
@@ -1358,10 +1653,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 116
@@ -1411,6 +1702,10 @@ PrefabInstance:
       value: Tree Orange 5 (3)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -1420,6 +1715,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &393797432
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 393797431}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890302894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2126722271}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &421319217
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1427,10 +1737,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (5)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 174.7
@@ -1479,6 +1785,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (5)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -1497,6 +1807,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+--- !u!1 &435779395
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1637901628}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 778562912}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &442762495
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1554,6 +1880,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 97eb1557fdd262e47a88469edc1466da, type: 3}
+--- !u!4 &442762496
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 442762495}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 154315553}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1822868159}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 71
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &448733218
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 164426865}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 237906354}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &459688502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1627,12 +1984,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
---- !u!4 &469400794 stripped
+--- !u!1 &459728024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1732220103}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 330456086}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &469400794
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: ee715383a8f355541aed28f1e3eeb59a,
     type: 3}
   m_PrefabInstance: {fileID: 1922362768}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1598193536}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1922362769}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &480163419
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1640,10 +2022,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (23)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 185.22261
@@ -1687,29 +2065,28 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
       value: enchantedforest_tree_4 (23)
       objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 100004, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_NavMeshLayer
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+  m_SourcePrefab: {fileID: 0}
+--- !u!4 &480163420
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 480163419}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 852436015}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1477994114}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 32
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &480714659
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1717,10 +2094,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 96.9
@@ -1769,6 +2142,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -1787,18 +2164,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
---- !u!4 &514655028 stripped
+--- !u!4 &514655028
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 662944565}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 155989005}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 662944566}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &518119695 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
     type: 3}
   m_PrefabInstance: {fileID: 1359509501}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &539689989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 282482984}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 282482985}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (7) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &543959654 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738,
@@ -1818,10 +2220,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (7)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 136.72014
@@ -1870,6 +2268,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (7)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -1894,6 +2296,38 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1297737020}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &566032496
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 794760226}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 794760227}
+  m_Layer: 0
+  m_Name: Tree Orange 2 (1) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &567029988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 386328756}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 386328757}
+  m_Layer: 0
+  m_Name: Tree Blue 7 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &567424989
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1969,12 +2403,53 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7561da044a00645e39d086b91c138738, type: 3}
---- !u!4 &583184102 stripped
+--- !u!1 &572899941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1922362768}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1922362769}
+  m_Layer: 0
+  m_Name: Tree Orange 8 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &574716623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1637901628}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1637901629}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (2) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &583184102
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: c2f279ec51055754e8121a43e6f58c49,
     type: 3}
   m_PrefabInstance: {fileID: 872751560}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 268999151}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 872751561}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &587699147 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4977736753131842, guid: 16114d2c1fdc8451e844a8024a4130bf,
@@ -1988,10 +2463,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (16)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 184.84041
@@ -2040,6 +2511,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (16)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -2064,6 +2539,22 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1043001380}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &614699594
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1380749933}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 999243413}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &626230093 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 8051415255134806348, guid: 447fba5caab5adb4a9410b8e88fb3f1b,
@@ -2084,24 +2575,58 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 14
   m_Mesh: {fileID: -462981019419857548, guid: 447fba5caab5adb4a9410b8e88fb3f1b, type: 3}
---- !u!4 &631617748 stripped
+--- !u!4 &631617748
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: c9a225eb4d0443248abe0521dce4d41c,
     type: 3}
   m_PrefabInstance: {fileID: 386328756}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2078663016}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 386328757}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &634943641 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a,
     type: 3}
   m_PrefabInstance: {fileID: 2117682334}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &656047320 stripped
+--- !u!1 &650099985
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 816306228}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 863527611}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &656047320
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 440fd4d05748cce479a6e54a1a265e4e,
     type: 3}
   m_PrefabInstance: {fileID: 1492037932}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 115592529}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1492037933}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &662944565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2109,10 +2634,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 150.08907
@@ -2157,8 +2678,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &662944566
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 662944565}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1357687814}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 514655028}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 82
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &667158890
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2166,10 +2706,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (4)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 117.66783
@@ -2219,6 +2755,10 @@ PrefabInstance:
       value: Tree Orange 5 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -2228,6 +2768,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &667158891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 667158890}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1710929264}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 691987967}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &675353348
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2293,12 +2848,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 391594ea7121a4d588b21bd5b47229a4, type: 3}
---- !u!4 &691987967 stripped
+--- !u!1 &685242640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 816306228}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 816306229}
+  m_Layer: 0
+  m_Name: Tree Blue 6 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &691987967
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 667158890}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1353003457}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 667158891}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &695520844
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2535,10 +3115,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (4)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 174.7
@@ -2587,6 +3163,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -2605,6 +3185,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+--- !u!1 &748327690
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1699963319}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1699963320}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (6) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &750126527
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2670,12 +3266,52 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c191680166b7610448a52f10792e7dde, type: 3}
---- !u!4 &778562912 stripped
+--- !u!4 &750126528
 Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 750126527}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 307682448}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1484320473}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 81
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &778554807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 157206130}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1584380284}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &778562912
+Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 1637901628}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 435779395}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1637901629}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &794760226
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2733,6 +3369,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c191680166b7610448a52f10792e7dde, type: 3}
+--- !u!4 &794760227
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 794760226}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 566032496}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1108354411}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 79
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &816306228
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2798,12 +3449,36 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 97eb1557fdd262e47a88469edc1466da, type: 3}
---- !u!4 &817681476 stripped
+--- !u!4 &816306229
 Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 816306228}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 685242640}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 863527611}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 77
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &817681476
+Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 282482984}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1872166973}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 282482985}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &824390237
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2944,12 +3619,53 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7561da044a00645e39d086b91c138738, type: 3}
---- !u!4 &863527611 stripped
+--- !u!1 &843690797
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 794760226}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1108354411}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &852436015
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 480163419}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 480163420}
+  m_Layer: 0
+  m_Name: enchantedforest_tree_4 (23) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &863527611
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 97eb1557fdd262e47a88469edc1466da,
     type: 3}
   m_PrefabInstance: {fileID: 816306228}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 650099985}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 816306229}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &866172796 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4840621389815684, guid: 1b6f3d5a3b076480e92b2da6db7e17de,
@@ -3086,6 +3802,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c2f279ec51055754e8121a43e6f58c49, type: 3}
+--- !u!4 &872751561
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 872751560}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934759172}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 583184102}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 68
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &884704720
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3159,12 +3890,37 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
---- !u!4 &886058446 stripped
+--- !u!1 &885083859
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 157206130}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 157206131}
+  m_Layer: 0
+  m_Name: Tree Blue 4 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &886058446
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 0d9377894905a144196ecb5acb1cebc0,
     type: 3}
   m_PrefabInstance: {fileID: 1134283385}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77077073}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1134283386}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &903214789
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3236,6 +3992,22 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 320299156}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &927858804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 750126527}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1484320473}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &947271518 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -4059,24 +4831,42 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb81c6274498c428fbac535c1c5de3e4, type: 3}
---- !u!4 &999243413 stripped
+--- !u!4 &999243413
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: b56c09ab3e7ead14c9314cefb708a1bd,
     type: 3}
   m_PrefabInstance: {fileID: 1380749933}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 614699594}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1380749934}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1015809257 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4582363405951748, guid: 6da02d34fe25044bb93d5c92331942e4,
     type: 3}
   m_PrefabInstance: {fileID: 903214789}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1020245738 stripped
+--- !u!4 &1020245738
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 1713535053}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881465699}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1713535054}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1037139439 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -4090,10 +4880,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (10)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 81.8
@@ -4142,6 +4928,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (10)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -4179,10 +4969,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (20)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 199.10385
@@ -4226,6 +5012,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (20)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -4336,12 +5126,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1681934469}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1108354411 stripped
+--- !u!4 &1108354411
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: c191680166b7610448a52f10792e7dde,
     type: 3}
   m_PrefabInstance: {fileID: 794760226}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 843690797}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 794760227}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1134283385
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4349,10 +5148,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 0d9377894905a144196ecb5acb1cebc0, type: 3}
-      propertyPath: m_Name
-      value: Tree Blue 5
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0d9377894905a144196ecb5acb1cebc0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 133.9
@@ -4397,8 +5192,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0d9377894905a144196ecb5acb1cebc0, type: 3}
+      propertyPath: m_Name
+      value: Tree Blue 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d9377894905a144196ecb5acb1cebc0, type: 3}
+--- !u!4 &1134283386
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1134283385}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1297258415}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 886058446}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 67
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1140613596
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4406,10 +5220,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (8)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 93.7
@@ -4453,6 +5263,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -4629,10 +5443,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (11)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 170.3
@@ -4676,6 +5486,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (11)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -4855,6 +5669,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+--- !u!1 &1297258415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1134283385}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1134283386}
+  m_Layer: 0
+  m_Name: Tree Blue 5 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &1297737020
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5076,6 +5906,54 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
+--- !u!1 &1338106058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 164426865}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 164426866}
+  m_Layer: 0
+  m_Name: Tree Blue 8 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1353003457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 667158890}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 691987967}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1357687814
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 662944565}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 662944566}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &1359509501
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5083,10 +5961,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (12)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 185.28915
@@ -5135,6 +6009,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (12)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -5160,10 +6038,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (9)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 108.8
@@ -5212,6 +6086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (9)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -5237,10 +6115,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: b56c09ab3e7ead14c9314cefb708a1bd, type: 3}
-      propertyPath: m_Name
-      value: Tree Green 8
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b56c09ab3e7ead14c9314cefb708a1bd, type: 3}
       propertyPath: m_LocalPosition.x
       value: 91.20287
@@ -5285,8 +6159,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b56c09ab3e7ead14c9314cefb708a1bd, type: 3}
+      propertyPath: m_Name
+      value: Tree Green 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b56c09ab3e7ead14c9314cefb708a1bd, type: 3}
+--- !u!4 &1380749934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1380749933}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 106109676}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 999243413}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 69
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1408680121
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5642,24 +6535,42 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 701473481}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1477994114 stripped
+--- !u!4 &1477994114
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
     type: 3}
   m_PrefabInstance: {fileID: 480163419}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 160194589}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 480163420}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1483869288 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
     type: 3}
   m_PrefabInstance: {fileID: 1367748176}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1484320473 stripped
+--- !u!4 &1484320473
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: c191680166b7610448a52f10792e7dde,
     type: 3}
   m_PrefabInstance: {fileID: 750126527}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 927858804}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 750126528}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1486022910 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -5723,6 +6634,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 440fd4d05748cce479a6e54a1a265e4e, type: 3}
+--- !u!4 &1492037933
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1492037932}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2104310508}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 656047320}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 70
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1499423837 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: b14d8c302663b48c0ba38a0be6e1765a,
@@ -5801,10 +6727,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (17)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 109.233765
@@ -5853,6 +6775,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (17)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -5878,10 +6804,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (1)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 83.7
@@ -5931,6 +6853,10 @@ PrefabInstance:
       value: Tree Orange 5 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -5940,6 +6866,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &1526266693
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1526266692}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1881442370}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2087099827}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1532821271
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5947,10 +6888,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (6)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 131.47
@@ -5994,6 +6931,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -6055,10 +6996,10 @@ Transform:
   - {fileID: 1788663245}
   - {fileID: 563268596}
   - {fileID: 1499423837}
-  - {fileID: 2087099827}
-  - {fileID: 778562912}
-  - {fileID: 2126722271}
-  - {fileID: 691987967}
+  - {fileID: 1526266693}
+  - {fileID: 1637901629}
+  - {fileID: 393797432}
+  - {fileID: 667158891}
   - {fileID: 518119695}
   - {fileID: 915586154}
   - {fileID: 17916629}
@@ -6069,9 +7010,9 @@ Transform:
   - {fileID: 325210140}
   - {fileID: 634943641}
   - {fileID: 1236638515}
-  - {fileID: 1020245738}
-  - {fileID: 142285441}
-  - {fileID: 817681476}
+  - {fileID: 1713535054}
+  - {fileID: 1699963320}
+  - {fileID: 282482985}
   - {fileID: 291345120}
   - {fileID: 947271518}
   - {fileID: 1105855951}
@@ -6082,7 +7023,7 @@ Transform:
   - {fileID: 1486022910}
   - {fileID: 1533650263}
   - {fileID: 1740139795}
-  - {fileID: 1477994114}
+  - {fileID: 480163420}
   - {fileID: 1469977084}
   - {fileID: 146727290}
   - {fileID: 2054217834}
@@ -6117,22 +7058,22 @@ Transform:
   - {fileID: 75170273}
   - {fileID: 866172796}
   - {fileID: 262926550}
-  - {fileID: 886058446}
-  - {fileID: 583184102}
-  - {fileID: 999243413}
-  - {fileID: 656047320}
-  - {fileID: 1822868159}
-  - {fileID: 237906354}
-  - {fileID: 330456086}
+  - {fileID: 1134283386}
+  - {fileID: 872751561}
+  - {fileID: 1380749934}
+  - {fileID: 1492037933}
+  - {fileID: 442762496}
+  - {fileID: 164426866}
+  - {fileID: 1732220104}
   - {fileID: 224791229}
   - {fileID: 1603696497}
-  - {fileID: 1584380284}
-  - {fileID: 863527611}
-  - {fileID: 631617748}
-  - {fileID: 1108354411}
-  - {fileID: 469400794}
-  - {fileID: 1484320473}
-  - {fileID: 514655028}
+  - {fileID: 157206131}
+  - {fileID: 816306229}
+  - {fileID: 386328757}
+  - {fileID: 794760227}
+  - {fileID: 1922362769}
+  - {fileID: 750126528}
+  - {fileID: 662944566}
   - {fileID: 201185251}
   - {fileID: 1058891810}
   - {fileID: 1195047329}
@@ -6145,12 +7086,21 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 971795535}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1584380284 stripped
+--- !u!4 &1584380284
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 440fd4d05748cce479a6e54a1a265e4e,
     type: 3}
   m_PrefabInstance: {fileID: 157206130}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778554807}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 157206131}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1591001563
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6226,6 +7176,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7561da044a00645e39d086b91c138738, type: 3}
+--- !u!1 &1598193536
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1922362768}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 469400794}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &1603696497 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4836733127638446, guid: cb7e68188a3c74235816fb9bf64e04a1,
@@ -6294,10 +7260,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (2)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 149
@@ -6347,6 +7309,10 @@ PrefabInstance:
       value: Tree Orange 5 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -6356,6 +7322,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &1637901629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1637901628}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 574716623}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 778562912}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1655376587 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -6450,10 +7431,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (6)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 145.89217
@@ -6503,6 +7480,10 @@ PrefabInstance:
       value: Tree Orange 5 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -6512,12 +7493,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &1699963320
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1699963319}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 748327690}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 142285441}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 20
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1708443921 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738,
     type: 3}
   m_PrefabInstance: {fileID: 69237217}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1710929264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 667158890}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 667158891}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (4) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &1713007178
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6525,10 +7537,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 108.88077
@@ -6577,6 +7585,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -6602,10 +7614,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 5 (5)
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_LocalPosition.x
       value: 196.00832
@@ -6655,6 +7663,10 @@ PrefabInstance:
       value: Tree Orange 5 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 5 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
       objectReference: {fileID: 0}
@@ -6664,6 +7676,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 65ae085c79375d8408c8421a4c85211e, type: 3}
+--- !u!4 &1713535054
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1713535053}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 291238762}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1020245738}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 19
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1717031979
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6736,10 +7763,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: ad10271f14be1ff4283770e0c12fb2bb, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 9
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ad10271f14be1ff4283770e0c12fb2bb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 90.836044
@@ -6784,8 +7807,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ad10271f14be1ff4283770e0c12fb2bb, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 9
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ad10271f14be1ff4283770e0c12fb2bb, type: 3}
+--- !u!4 &1732220104
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1732220103}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1861488141}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 330456086}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 73
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1740139795 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -6956,18 +7998,107 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 590651262}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1822868159 stripped
+--- !u!4 &1822868159
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 97eb1557fdd262e47a88469edc1466da,
     type: 3}
   m_PrefabInstance: {fileID: 442762495}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 284412657}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 442762496}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1840384725 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4606305320375762, guid: 7561da044a00645e39d086b91c138738,
     type: 3}
   m_PrefabInstance: {fileID: 1959113303}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1861488141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1732220103}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1732220104}
+  m_Layer: 0
+  m_Name: Tree Orange 9 (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1872166973
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 282482984}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 817681476}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1881442370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1526266692}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1526266693}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (1) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1881465699
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1713535053}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1020245738}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1890302894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 393797431}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 393797432}
+  m_Layer: 0
+  m_Name: Tree Orange 5 (3) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &1896201652
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7040,10 +8171,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (22)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 137.02074
@@ -7092,6 +8219,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (22)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -7117,10 +8248,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100000, guid: ee715383a8f355541aed28f1e3eeb59a, type: 3}
-      propertyPath: m_Name
-      value: Tree Orange 8
-      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ee715383a8f355541aed28f1e3eeb59a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 80.76107
@@ -7165,8 +8292,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: ee715383a8f355541aed28f1e3eeb59a, type: 3}
+      propertyPath: m_Name
+      value: Tree Orange 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ee715383a8f355541aed28f1e3eeb59a, type: 3}
+--- !u!4 &1922362769
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1922362768}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 572899941}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 469400794}
+  m_Father: {fileID: 1534705751}
+  m_RootOrder: 80
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1933140664
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7242,6 +8388,22 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7561da044a00645e39d086b91c138738, type: 3}
+--- !u!1 &1934759172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 872751560}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 872751561}
+  m_Layer: 0
+  m_Name: Tree Blue 8 (1) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &1959113303
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7330,10 +8492,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (2)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 128.3
@@ -7377,6 +8535,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -7555,10 +8717,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (18)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 165.59914
@@ -7607,6 +8765,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: enchantedforest_tree_4 (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (18)
+      objectReference: {fileID: 0}
     - target: {fileID: 100000, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 8
@@ -7631,6 +8793,22 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 869616198}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2078663016
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 386328756}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 631617748}
+  m_Layer: 0
+  m_Name: Missing Prefab (Dummy)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1001 &2083762718
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7638,10 +8816,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (15)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 182.3383
@@ -7685,6 +8859,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (15)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -7781,18 +8959,43 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
---- !u!4 &2087099827 stripped
+--- !u!4 &2087099827
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 1526266692}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7053430}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1526266693}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &2090310923 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4661484377465094, guid: 391594ea7121a4d588b21bd5b47229a4,
     type: 3}
   m_PrefabInstance: {fileID: 675353348}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2104310508
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 1492037932}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1492037933}
+  m_Layer: 0
+  m_Name: Tree Blue 4 (1) (Missing Prefab)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!4 &2112361847 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436,
@@ -7806,10 +9009,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1534705751}
     m_Modifications:
-    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
-      propertyPath: m_Name
-      value: enchantedforest_tree_4 (21)
-      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalPosition.x
       value: 90.02381
@@ -7853,6 +9052,10 @@ PrefabInstance:
     - target: {fileID: 400002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
+      propertyPath: m_Name
+      value: enchantedforest_tree_4 (21)
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: d9c1ae3b8cdd64725a2b3e01dc735436, type: 3}
       propertyPath: m_Name
@@ -7949,12 +9152,21 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b14d8c302663b48c0ba38a0be6e1765a, type: 3}
---- !u!4 &2126722271 stripped
+--- !u!4 &2126722271
 Transform:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 400000, guid: 65ae085c79375d8408c8421a4c85211e,
     type: 3}
   m_PrefabInstance: {fileID: 393797431}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 133136151}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 393797432}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &169228075787254202
 GameObject:
   m_ObjectHideFlags: 0
@@ -9168,7 +10380,7 @@ SkinnedMeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4343698960286941357}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
