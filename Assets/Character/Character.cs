@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 using UnityEngine.InputSystem;
 
 public class Character : MonoBehaviour
@@ -9,6 +10,7 @@ public class Character : MonoBehaviour
     float rotation = 0;
     float gravity = 0.6f;
     float vertical = 0f;
+    bool jumped = false;
 
     private float moveSpeed = 0;
     Vector3 moveVec = Vector3.zero;
@@ -78,14 +80,15 @@ public class Character : MonoBehaviour
     {
         if (controller.isGrounded)
         {
-            anim.Play("jump");
+            anim.SetTrigger("jump");
             vertical = 6f;
+            jumped = true;
         }
     }
 
     void RotateCamera(InputAction.CallbackContext ctx)
     {
-        rotation += ctx.ReadValue<float>() * rotationSpeed * Time.deltaTime;
+        rotation += ctx.ReadValue<float>() * rotationSpeed * Time.deltaTime * -1;
         transform.eulerAngles = new Vector3(0, rotation, 0);
     }
 
@@ -114,7 +117,6 @@ public class Character : MonoBehaviour
         else if (isFalling() && !anim.GetBool("is_falling"))
         {
             anim.SetBool("is_falling", true);
-            anim.Play("fall");
         }
 
         if (vertical > 0)

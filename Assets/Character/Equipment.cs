@@ -28,7 +28,6 @@ public class Equipment : MonoBehaviour
         anim = GetComponent<Animator>();
 
         inputs.Player.Equip.performed += Equip;
-
         inputs.Player.Attack.performed += Attack;
     }
 
