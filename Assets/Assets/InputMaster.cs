@@ -76,7 +76,7 @@ public class InputMaster : IInputActionCollection
                 },
                 {
                     ""name"": ""Attack"",
-                    ""id"": ""73f5b431-3b2d-47ed-b29d-8c0b371d2c45"",
+                    ""id"": ""1a4a2ac8-6c4b-4357-b0a9-6185c5a1a2c6"",
                     ""expectedControlLayout"": """",
                     ""continuous"": false,
                     ""passThrough"": false,
@@ -281,8 +281,20 @@ public class InputMaster : IInputActionCollection
                 },
                 {
                     ""name"": """",
-                    ""id"": ""ba05ae7e-f65b-42e9-86f4-fa02ce8ce01b"",
-                    ""path"": ""<Keyboard>/e"",
+                    ""id"": ""775c485d-784f-4475-9767-bb8f88a3467e"",
+                    ""path"": ""<Mouse>/leftButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Attack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false,
+                    ""modifiers"": """"
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""8e55a6d5-eea4-4efc-bf09-72b40ff4372e"",
+                    ""path"": ""<XInputController>/buttonWest"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
